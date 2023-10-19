@@ -1,0 +1,88 @@
+окт. 19, 2023 5:47:34 PM Main main
+INFO: Start program
+окт. 19, 2023 5:47:42 PM Graphic actionPerformed
+INFO: Pressing the Button
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Entered length: 20
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 0
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: q      Iteration: 0 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 0
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qb      Iteration: 1 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbC      Iteration: 2 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCH      Iteration: 3 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 0
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHx      Iteration: 4 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxF      Iteration: 5 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFm      Iteration: 6 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz      Iteration: 7 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!      Iteration: 8 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}      Iteration: 9 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!      Iteration: 10 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!H      Iteration: 11 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He      Iteration: 12 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{      Iteration: 13 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x      Iteration: 14 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x]      Iteration: 15 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x]}      Iteration: 16 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 1
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x]}#      Iteration: 17 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x]}#^      Iteration: 18 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Random Finder: 2
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Cycle of Creation. Password: qbCHxFmz!}!He{x]}#^^      Iteration: 19 
+окт. 19, 2023 5:47:42 PM GeneratePass Random
+INFO: Consequence: qbCHxFmz!}!He{x]}#^^
